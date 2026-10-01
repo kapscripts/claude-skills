@@ -12,7 +12,7 @@ Custom [Claude Code](https://claude.com/claude-code) skills.
 Copy a skill folder into `~/.claude/skills/` (all projects) or `.claude/skills/` inside a project:
 
 ```bash
-git clone https://github.com/<you>/claude-skills.git
+git clone https://github.com/kapscripts/claude-skills.git
 cp -r claude-skills/roblox-ui-designer ~/.claude/skills/
 ```
 
